@@ -1,0 +1,47 @@
+
+
+window {
+	background-color: alpha(#ffffff, .9);
+	color: white;
+	box-shadow: none;
+	border-radius: 0px;
+	border: 1px solid #f55858;
+}
+
+
+#input {
+	background: none;
+	padding: 0.25em;
+	margin: 10 10 10 10;
+    color: black;
+	border: 1px solid #f55858;
+	border-radius: 0px;
+
+}
+
+
+#entry {
+	padding: 1em;
+	margin: 0 10 10 10;
+    color: black;
+	
+}
+
+#entry:selected {
+	background: alpha(#f55858, .6);
+	box-shadow: none;
+	border-radius: 0px;
+}
+
+#expander-box {
+	background: none;
+	margin: 0 0 0 20;
+}
+
+#text:selected {
+	color: black;
+}
+
+#img {
+	margin: 0 10 0 5;
+}
